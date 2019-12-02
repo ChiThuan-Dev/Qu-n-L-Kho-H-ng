@@ -44,7 +44,7 @@ public class FrameQuanLyBanHang extends JFrame{
 		
 		setLayout(new BoxLayout(this.getContentPane(), BoxLayout.Y_AXIS));
 		//tieu de
-		lbTieuDe = new JLabel("QUẢN L�? KHO HÀNG");
+		lbTieuDe = new JLabel("QUẢN Lý KHO HÀNG");
 		lbTieuDe.setAlignmentX(CENTER_ALIGNMENT);
 		
 		//hang 1
